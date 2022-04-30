@@ -1,3 +1,4 @@
 django>3.2,<3.3
+daphne
 channels
 channels_redis
